@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <nav> <a href="index.html"> Inicio</a>
+        <a href="Musicas.html"> Musicas para Programar</a>
+        <a href=" Aulas.html"> Aulas</a>
+        
+        <hr>
+    </nav>
+    <main> 
+        <h1> Musicas para Programar</h1>
+    </main>
+</body>
+</html>
